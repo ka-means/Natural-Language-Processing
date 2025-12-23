@@ -1,10 +1,6 @@
 # Natural-Language-Processing
 Natural Language Processing (NLP) course assignments from my Master's in Business Analytics/Data Science at Pontificia Universidad Católica de Chile. Includes hands-on projects covering text preprocessing, vectorization, neural networks, transformers, language models, and intelligent agents.
 
-# NLP - Natural Language Processing
-
-This repository contains assignments and projects from the Natural Language Processing course, part of my Master's program in Business Analytics at Pontificia Universidad Católica de Chile.
-
 ## 📚 Course Structure
 
 ### Module 1: Introduction to Natural Language Processing
