@@ -1,7 +1,7 @@
 # Natural-Language-Processing
 Natural Language Processing (NLP) course assignments from my Master's in Business Analytics/Data Science at Pontificia Universidad Católica de Chile. Includes hands-on projects covering text preprocessing, vectorization, neural networks, transformers, language models, and intelligent agents.
 
-## 📚 Course Structure
+## Course Structure
 
 ### Module 1: Introduction to Natural Language Processing
 Week 1: Introduction to Natural Language Processing
@@ -51,13 +51,6 @@ Week 8: LLMs
 - Scaling laws
 - Deployment and optimization
 
-## 🎯 Repository Contents
-
-Each folder contains Jupyter notebooks with:
-- Theoretical concepts and explanations
-- Practical implementations
-- Real-world dataset applications
-- Performance analysis and evaluation
 
 ## 🛠️ Technologies Used
 
